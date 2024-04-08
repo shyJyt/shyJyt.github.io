@@ -1,7 +1,6 @@
 ---
 title: Lab1
 date: 2024-04-07 13:08:22
-updated: 2024-04-08 21:53:00
 categories:
 - xv6-labs-2021
 ---

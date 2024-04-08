@@ -1,7 +1,6 @@
 ---
 title: Hexo + GitHub Pages + NexT 搭建个人博客
 date: 2024-04-07 16:00:06
-updated: 2024-04-07 16:00:06
 categories:
 - 博客搭建
 ---
