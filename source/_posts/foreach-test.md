@@ -1,6 +1,7 @@
 ---
 title: foreach-test
 date: 2024-04-07 18:56:18
+updated: 2024-04-07 18:56:18
 categories:
 - Java
 ---
