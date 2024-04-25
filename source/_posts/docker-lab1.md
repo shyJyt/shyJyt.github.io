@@ -6,8 +6,6 @@ categories:
 - Docker
 ---
 
-## lab1 docker
-
 ### 1. 数据持久化
 
 #### 1.1 bind mount
