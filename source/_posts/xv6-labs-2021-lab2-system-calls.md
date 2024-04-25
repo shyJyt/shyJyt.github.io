@@ -1,5 +1,5 @@
 ---
-title: Lab2: System calls
+title: Lab2 - System calls
 date: 2024-04-22 11:34:22
 updated: 2024-04-22 11:34:22
 categories:
@@ -12,9 +12,9 @@ categories:
 
 ```assembly
 	# qemu -kernel loads the kernel at 0x80000000
-    # and causes each CPU to jump there.
-    # kernel.ld causes the following code to
-    # be placed at 0x80000000.
+  # and causes each CPU to jump there.
+  # kernel.ld causes the following code to
+  # be placed at 0x80000000.
 .section .text
 .global _entry
 _entry:

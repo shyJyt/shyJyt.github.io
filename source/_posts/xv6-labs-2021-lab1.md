@@ -1,5 +1,5 @@
 ---
-title: Lab1: Xv6 and Unix utilities
+title: Lab1 - Xv6 and Unix utilities
 date: 2024-04-07 13:08:22
 updated: 2024-04-08 22:18:00
 categories:
