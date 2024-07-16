@@ -174,7 +174,7 @@ mysql -u root -p
 
 **redis**
 
-同上 mysql
+同上 mysql，还得将配置文件中的 `protected-mode yes` 改为 no，redis 默认是没有密码登录的，如果允许了远程访问肯定是不安全的，还是得设置一下密码。
 
 ```shell
 # 查看状态
